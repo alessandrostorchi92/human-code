@@ -15,7 +15,7 @@ Consegna: Aprire un pacchetto di figurine
 - Controlla le carte che hai già comprato e che hai inserito nell'album
 - FINCHÉ il numero di carte presenti all'interno del pacchetto è minore di 1
 - IF --> Se la carta non è presente nell'album mettila nell'album, ELSE --> Metti la carta nel mazzo doppioni
-- 
+
 
 
 
