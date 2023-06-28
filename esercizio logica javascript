@@ -1,0 +1,29 @@
+Consegna: Aprire un pacchetto di figurine
+
+1.Definizione degli oggetti: 
+- un pacchetto di figurine: (contenitore di plastica sottile di forma rettangolare);
+- figurine: (cards di carta contenente un'immagine e un testo scritto);
+- mazzo doppioni: lista di cards di cui si è già in possesso;
+- album: contenitore delle cards già possedute.
+
+2. Descrizione delle azioni per aprire il pacchetto di figurine:
+
+- Apri il pacchetto di figurine;
+- Sfila le carte del pacchetto;
+- Conta il numero delle carte ;
+- Verifica se possiedi già le carte all'interno del pacchetto di figurine;
+- Controlla le carte che hai già comprato e che hai inserito nell'album
+- FINCHÉ il numero di carte presenti all'interno del pacchetto è minore di 1
+- IF --> Se la carta non è presente nell'album mettila nell'album, ELSE --> Metti la carta nel mazzo doppioni
+- 
+
+
+
+
+
+
+
+
+
+
+
